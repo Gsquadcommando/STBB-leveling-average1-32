@@ -320,13 +320,8 @@ local enemyNames = {
     "Mafia shooter","Mafia strider","Mafia bomber","Mafia Agent Mutant",
     "Mafia Large Mutant","Mafia Glasses Big","Mafia Glasses Large",
     "Mafia Large Laser","Mafia Armed Laser","Mafia Attack Laser Strider","Mafia Huge Laser",
-    "Pumpkin Speaker","Pumpkin","Pumpkin Large Drill","Pumpkin Clock","Pumpkin Glitch Double Plunger"
-    "Pumpkin Madman Laser Toilet","Pumpkin General Toilet","Pumpkin Saint Toilet","Pumpkin Astro Interceptor","Pumpkin Toilet"
-    "Medium Pumpkin Toilet","Big Pumpkin Toilet","Pumpkin Quad Laser Toilet","Pumpkin Octa Rocket"
-    "Pumpkin Elite Astro Obliterator","DJ Urinal","Octopus Toilet","Primera Espada","Soundwave Vacuum Toilet"
-    "Soundwave Flamethrower Toilet","Soundwave Triplets toilet","Soundwave T-Toilet 3.0 V2","Soundwave T-Toilet"
-    "Soundwave Rocket Toilet","Soundwave Ginger Toilet","Soundwave G-toilet 3.0","Soundwave G-Toilet"
-    "S-Toilet 2.0","S-Toilet","helicopter","tri","quad","gman","???","drill","paraside","infected","secretagent","secret agent","secret"
+    "Pumpkin Speaker","Pumpkin","Pumpkin Large Drill","Pumpkin Clock","Pumpkin Glitch Double Plunger","Pumpkin Madman Laser Toilet","Pumpkin General Toilet","Pumpkin Saint Toilet","Pumpkin Astro Interceptor","Pumpkin Toilet","Medium Pumpkin Toilet","Big Pumpkin Toilet","Pumpkin Quad Laser Toilet","Pumpkin Octa Rocket","Pumpkin Elite Astro Obliterator","DJ Urinal","Octopus Toilet","Primera Espada","Soundwave Vacuum Toilet","Soundwave Flamethrower Toilet","Soundwave Triplets toilet","Soundwave T-Toilet 3.0 V2","Soundwave T-Toilet"
+    "Soundwave Rocket Toilet","Soundwave Ginger Toilet","Soundwave G-toilet 3.0","Soundwave G-Toilet","S-Toilet 2.0","S-Toilet","helicopter","tri","quad","gman","???","drill","paraside","infected","secret","secret ","secret"
 }
 local exceptions = {
     "upgrade large tv man","upgraded large tv man","large tv man shop","large tv man",
